@@ -1,0 +1,83 @@
+{
+    "latestVersion": "1.0.0",
+    "indexName": "Jared",
+    "songs": [{
+            "type": "song",
+            "name": "Du Hast",
+            "author": "Rammstein",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Du%20hast.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Voices In My Head",
+            "author": "Anyma, Argy, Son of Son",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Voices%20In%20My%20Head.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Under Pressure",
+            "author": "Queen",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Under%20Pressure.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Glamorous",
+            "author": "Fergie",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/Glamorous.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "100 Digits of Pi",
+            "author": "YouTube",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/PiSong.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Cat's in the Cradle",
+            "author": "Harry Chapin",
+            "file": "https://github.com/JaredWogan/musicme/raw/refs/heads/master/Processed/CatCradle.dfpwm"
+        },
+		    {
+            "type": "song",
+            "name": "Halo Mjolnir Mix",
+            "author": "Martin o'Donnell & Michael Salvatori",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/Halo%20Mjolnir%20Mix.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Bloody Stream",
+            "author": "Coda",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/BLOODY%20STREAM.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "CHA-LA HEAD-CHA-LA",
+            "author": "Hironobu Kageyama",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/CHA-LA%20HEAD-CHA-LA.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "COLORS",
+            "author": "FLOW",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/COLORS.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Carry on Wayward Son",
+            "author": "Kansas",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/Kansas%20-%20Carry%20on%20Wayward%20Son.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Rumbling",
+            "author": "SiM",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/The%20Rumbling.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "We Are!",
+            "author": "Hiroshi Kitadani",
+            "file": "https://github.com/PrototypeTV/musicme/raw/refs/heads/main/music/We%20Are!.dfpwm"
+        }
+    ]
+}
